@@ -1,3 +1,7 @@
+"""
+Copyright (c) 2019, HarryVolek
+All rights reserved.
+"""
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 
