@@ -1,3 +1,7 @@
+"""
+Copyright (c) 2019, HarryVolek
+All rights reserved.
+"""
 # -*- coding: utf-8 -*-
 #!/usr/bin/env python
 import os
